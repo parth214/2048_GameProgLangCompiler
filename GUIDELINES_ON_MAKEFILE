@@ -1,0 +1,7 @@
+PLEASE READ README.
+
+To run it,
+
+python3 COMPILER.py
+
+Making MAKEFILE was having trouble on VM. The above line is enough to run the code if pip, sly are installed.
